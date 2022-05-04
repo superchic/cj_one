@@ -423,11 +423,11 @@ $(document).ready(function(){
         // $(".combine_right").css({"top":-300+scroll*0.7});
         
         $(".doughnut_Left_L").css({"top":71+scroll*0.5});
-        $(".doughnut_Left_s").css({"top":796+scroll*1.1});
-        $(".combine_Left").css({"top":1726-scroll*0.1});
+        $(".doughnut_Left_s").css({"top":170+scroll*0.5});
+        $(".combine_Left").css({"top":1710-scroll*0.2});
 
-        $(".doughnut_Center_M").css({"top":722+scroll*0.1});
-        $(".doughnut_Center_s").css({"top":991+scroll*1.1});
+        $(".doughnut_Center_M").css({"top":722+scroll*0.2});
+        $(".doughnut_Center_s").css({"top":1400-scroll*0.4});
 
         $(".doughnut_right_M").css({"top":900+scroll*0.2});
         $(".doughnut_right_s").css({"top":365+scroll*0.5});
